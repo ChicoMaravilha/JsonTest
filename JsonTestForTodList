@@ -1,4 +1,4 @@
-[
+{
       {
         id: 1,
         title :'Todo On',
@@ -19,4 +19,4 @@
         title :'Todo for',
         completed: true
       }
-    ]
+}
